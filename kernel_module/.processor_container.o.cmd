@@ -1,0 +1,1 @@
+cmd_/home/ishan/CSC501-P1/kernel_module/processor_container.o := ld -m elf_x86_64  -z max-page-size=0x200000   -r -o /home/ishan/CSC501-P1/kernel_module/processor_container.o /home/ishan/CSC501-P1/kernel_module/src/core.o /home/ishan/CSC501-P1/kernel_module/src/ioctl.o /home/ishan/CSC501-P1/kernel_module/interface.o 
